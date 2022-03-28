@@ -8,7 +8,7 @@ This is a Vuejs 3 project, built to connect to the Lumen project that interacts 
 npm install
 ```
 
-### To Compile the projec ton a local server
+### To Compile the projec to a local server
 ```
 npm run serve
 ```
