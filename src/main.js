@@ -8,7 +8,8 @@ import 'bootstrap'
 import 'bootstrap/dist/css/bootstrap.min.css'
 
 // Axios defaults
-axios.defaults.baseURL = 'http://localhost:8000';
+// axios.defaults.baseURL = 'http://localhost:8000';
+axios.defaults.baseURL = 'https://got-api.inshaka.africa/';
 axios.defaults.headers.common['Accept'] = 'application/json';
 
 createApp(App)
